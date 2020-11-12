@@ -1,1 +1,1 @@
-# Basics-of-Statistics-by-python
+# Basics-of-Statistics-with-python
